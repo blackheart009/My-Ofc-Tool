@@ -39,8 +39,8 @@ ERC20_ABI = [
 ]
 
 NETWORKS = {
-    "1": {"http": "https://crimson-floral-gadget.base-mainnet.quiknode.pro/ccbc78715a130c2acb0ce2a31469572182f7c3d5/",
-          "wss":  "wss://crimson-floral-gadget.base-mainnet.quiknode.pro/ccbc78715a130c2acb0ce2a31469572182f7c3d5/",
+    "1": {"http": "https://maximum-nameless-glade.base-mainnet.quiknode.pro/b6d8a0bcd689194bc7bbf8c9d94e3e3d13e314c1/",
+          "wss":  "wss://maximum-nameless-glade.base-mainnet.quiknode.pro/b6d8a0bcd689194bc7bbf8c9d94e3e3d13e314c1/",
           "chain_id": 8453,  "label": "Base Mainnet (QuickNode)"},
     "2": {"http": "https://sepolia.base.org",
           "wss":  "wss://base-sepolia-rpc.publicnode.com",
